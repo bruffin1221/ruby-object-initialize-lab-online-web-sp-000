@@ -11,3 +11,5 @@ def breed
 end
 
 end
+
+fido=Dog.mew("Fido", "Pug")
